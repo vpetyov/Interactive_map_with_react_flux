@@ -1,0 +1,13 @@
+{
+    "countries": [
+    	{
+            "conutryname": "Bulgaria",
+            "conutrycities": ["Sofia", "Plovediv"]
+        },
+        {
+            "conutryname": "Germany",
+            "conutrycities": ["Berlin", "Hamburg"]
+        }
+
+    ]
+}
